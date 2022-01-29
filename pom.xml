@@ -21,6 +21,8 @@
 
     <modules>
         <module>currency-converter-limits-service</module>
+        <module>currency-converter-spring-cloud-config-server</module>
+        <module>currency-converter-spring-cloud-config-server</module>
     </modules>
 
     <dependencies>
