@@ -1,4 +1,4 @@
-package com.kpilszak.currencyconverter.currencyconverterexchangeservice;
+package com.kpilszak.currencyconverter.currencyconverterexchangeservice.controller;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
