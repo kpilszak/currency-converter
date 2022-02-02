@@ -10,31 +10,15 @@
     </parent>
 
     <groupId>com.kpilszak.currencyconverter</groupId>
-    <artifactId>currency-converter-conversion-service</artifactId>
+    <artifactId>currency-converter-naming-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>currency-converter-conversion-service</name>
-    <description>Service for currency conversions</description>
+    <name>currency-converter-naming-server</name>
+    <description>Server registry</description>
 
     <dependencies>
         <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-actuator</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-web</artifactId>
-        </dependency>
-        <dependency>
             <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-config</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-openfeign</artifactId>
+            <artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>
         </dependency>
     </dependencies>
 
