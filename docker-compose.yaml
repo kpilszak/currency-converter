@@ -1,0 +1,8 @@
+version: '3.7'
+
+services:
+  currency-converter-exchange-service:
+    image: kpilszak/currency-converter-exchange-service:0.0.1-SNAPSHOT
+    ports:
+      - "8000:8000"
+      -
