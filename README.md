@@ -13,7 +13,6 @@ The main purpose is to create a currency converter app.
 Project is created with:
 * Java 11 
 * Spring Boot 2.4.1
-* Spring Security  
 * Spring Cloud
 * Spring Data JPA
 * Thymeleaf  
