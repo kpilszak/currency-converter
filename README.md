@@ -1,4 +1,4 @@
-<h1 align="right">Work In Progress: Currency Converter</h1><br>
+<h1 align="right">Currency Converter</h1><br>
 
 ## Table of contents
 * [General info](#general-info)
@@ -13,9 +13,8 @@ The main purpose is to create a currency converter app.
 Project is created with:
 * Java 11 
 * Spring Boot 2.4.1
-* Spring Cloud
-* Spring Data JPA
-* Thymeleaf  
+* Spring Cloud 2020.0.0  
+* Spring Data JPA  
 * Maven  
   
 IDE: Intellij IDEA 2020.2  
